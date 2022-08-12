@@ -9,7 +9,7 @@
 <body>
 	<div class="container">
 		<input type="text" id="my-text"
-		placeholder="Hit Eneter Here...">
+		placeholder="Enter Name Here">
 		<button id="btn">Tap In</button>
 	</div>
 
